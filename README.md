@@ -1,6 +1,6 @@
 # Git-Lessons
 Utiva Cloud Developers Git Lessons 
-## Introduction on  how to push from  local environment to github  
+## Introduction on  How to Push From  Local Environment to Github  
 Downloaded Gitbash (https://git-scm.com/downloads)  
 # Configure gitbash  
 git config --global user.name "name"  
